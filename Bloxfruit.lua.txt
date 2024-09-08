@@ -6266,9 +6266,6 @@ Tabs.Misc:AddButton({
 	Title = "Discord",
 	Description = "",
 	Callback = function()
-    to_clipboard(text)
-    local p = io.popen("clip.exe", "https://discord.com/invite/PXCD5NCY9t")
-    p:write(text)
-    p:close()
+    setclipboard("https://discord.com/invite/PXCD5NCY9t") 
 	end
 })
