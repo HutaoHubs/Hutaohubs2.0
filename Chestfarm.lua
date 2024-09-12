@@ -1,3 +1,6 @@
+
+
+
 highChestOnly = true
 godsChalicSniper = false
 repeat task.wait(4) until game:IsLoaded()
