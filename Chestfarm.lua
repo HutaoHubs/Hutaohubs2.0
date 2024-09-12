@@ -100,8 +100,8 @@ function AllowRunServiceBind.OnInvoke(args)
     local CoreGui = game:GetService("StarterGui")
     CoreGui:SetCore("SendNotification", {
         Title = "Chest Farm",
-        Text = "by thaibao7444 ",
-        Icon = "rbxthumb://type=Asset&id=15485121479&w=150&h=150",
+        Text = "by Hutaohubs ",
+        Icon = "rbxthumb://type=Asset&id=17576103539&w=150&h=150",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
         Button1 = "ON",
@@ -125,8 +125,8 @@ end)
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "Chest Farm",
-    Text = "by thaibao7444",
-    Icon = "rbxthumb://type=Asset&id=15485121479&w=150&h=150",
+    Text = "by Hutaohubs",
+    Icon = "rbxthumb://type=Asset&id=17576103539&w=150&h=150",
     Duration = math.huge,
     Callback = AllowRunServiceBind,
     Button1 = "ON",
