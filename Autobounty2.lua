@@ -36,7 +36,7 @@ getgenv().Setting = {
 
         ["Webhook"] = true, 
 
-        ["Url"] = "you link webhook" -- paste you link webhook discord
+        ["Url"] = "https://discord.com/api/webhooks/1284715654619861055/BMPZY7FUVk8jmIF3zJtfSLvi1ADaikD9HnCF9m5D1lqJLsmC9UMarH7K6hTA-Nr2iYlZ" -- paste you link webhook discord
 
     },
 
