@@ -2,9 +2,20 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/REDzHUB/LibraryV2/ma
 MakeWindow({
   Hub = {
     Title = "Hutao Hub | Blox fruit | Auto bounty",
-    Animation = "by Hutao Hub"
+    Animation = "by Hutaohub"
   },
-      }
+  Key = {
+    KeySystem = true,
+    Title = "Hutao Hub | Blox fruit | Auto bounty",
+    Description = "",
+    KeyLink = "",
+    Keys = {"1"},
+    Notifi = {
+      Notifications = true,
+      CorrectKey = "Running the Script...",
+      Incorrectkey = "The key is incorrect",
+      CopyKeyLink = "Copied to Clipboard"
+    }
   }
 })
  Main = MakeTab({Name = "Main"})
