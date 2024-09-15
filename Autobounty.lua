@@ -14,7 +14,7 @@ getgenv().Setting = {
         ["StoredFruit"] = true,
         ["ImageEmbed"] = true,
         ["CustomImage"] = true,
-        ["CustomImageUrl"] = "https://instagram.fhan14-1.fna.fbcdn.net/v/t51.2885-19/391307739_848675756903173_3613710877514687881_n.jpg?stp=dst-jpg_s150x150&efg=e30&_nc_ht=instagram.fhan14-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=4RCI4Pjt17kAX8UZlo2&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCQEWuy-FLgZqKNL2RZN4A00UoaxmfNGavWZe7adzjZkg&oe=659F1072&_nc_sid=8b3546", --Your Url
+        ["CustomImageUrl"] = "https://images.app.goo.gl/6UDd1kgMzP4q5Gvv8", --Your Url
         ["OnServerHop"] = true,
         ["BountyChanged"] = true,
     }, 
