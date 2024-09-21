@@ -6,7 +6,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 local Window = OrionLib:MakeWindow({Name = "Hutao Hub | Blox fruit", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 local Tab = Window:MakeTab({
  Name = "Main",
- Icon = "rbxassetid://15338990777",
+ Icon = "rbxassetid://17576103539",
  PremiumOnly = false
 })
 Tab:AddButton({
@@ -120,7 +120,7 @@ function AllowRunServiceBind.OnInvoke(args)
     CoreGui:SetCore("SendNotification", {
         Title = "ChestFarm",
         Text = "By Hutao hub",
-        Icon = "rbxthumb://type=Asset&id=15338990738&w=150&h=150",
+        Icon = "rbxthumb://type=Asset&id=17576103539&w=150&h=150",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
         Button1 = "",
@@ -145,7 +145,7 @@ local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "ChestFarm",
     Text = "By Hutao hub",
-    Icon = "rbxthumb://type=Asset&id=15338990738&w=150&h=150",
+    Icon = "rbxthumb://type=Asset&id=17576103539&w=150&h=150",
     Duration = math.huge,
     Callback = AllowRunServiceBind,
     Button1 = "",
